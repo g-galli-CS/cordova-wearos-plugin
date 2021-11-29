@@ -14,13 +14,13 @@ https://github.com/guikeller/cordova-wearos-plugin-source
 If you are using [cordova-cli](https://github.com/apache/cordova-cli), install
 with:
 
-    cordova plugin add https://github.com/guikeller/cordova-wearos-plugin.git
+    cordova plugin add https://github.com/g-galli-CS/cordova-wearos-plugin.git
 
 ### With ionic
 
 With ionic:
 
-    ionic cordova plugin add https://github.com/guikeller/cordova-wearos-plugin.git
+    ionic cordova plugin add https://github.com/g-galli-CS/cordova-wearos-plugin.git
 
 ## Use from Javascript
 Edit `www/js/index.js` and add the following code inside `onDeviceReady`
