@@ -20,7 +20,7 @@
     <platform name="android">
 
         <!-- WearOs Dependencies -->
-        <preference name="PLAY_SERVICES_VERSION" default="16+"/>
+        <preference name="PLAY_SERVICES_VERSION" default="16.0.0"/>
         <framework src="com.google.android.gms:play-services-base:$PLAY_SERVICES_VERSION" />
         <framework src="com.google.android.gms:play-services-wearable:$PLAY_SERVICES_VERSION" />
 
